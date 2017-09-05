@@ -26,6 +26,7 @@ body {
 .tc-dark { color: #222426; }
 .tc-light { color: #5A6470; }
 .tc-purple { color: #8B23E6; }
+.tc-purple-light { color: #cf99ff; }
 
 .bg-yellow { background-color: #FFD06E; }
 .bg-dark { background-color: #222426 }
@@ -47,6 +48,10 @@ body {
 
 .bb-2 { border-bottom: 2px solid #B9CDDE; }
 .bt-2 { border-top: 2px solid #B9CDDE; }
+
+.bb-faded {
+    border-bottom: 2px solid rgba(185, 205, 222, 0.2);
+}
 
 
 
